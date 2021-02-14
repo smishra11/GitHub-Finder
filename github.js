@@ -1,5 +1,3 @@
-const dotenv = require('dotenv').config();
-
 class Github {
   constructor() {
     this.client_id = XXXXXX; //ENTER YOUR CLIENT ID
